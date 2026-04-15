@@ -1,2 +1,3 @@
 # agnirath_app_anishvaa
-my agnirath app code
+
+q1(3).py is the telemetry question 1 3rd part
