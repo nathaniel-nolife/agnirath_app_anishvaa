@@ -5,7 +5,7 @@ E_min = 720000
 E_avail = E_current - E_min
 P_solar = 250   
 
-P_base = 20        
+P_base = 20       
 eff = 0.8             
 k = 0.08
 
